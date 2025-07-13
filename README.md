@@ -21,3 +21,6 @@ A modern, fun, and interactive Tic Tac Toe (XO) game built using Flutter 🚀. P
 - 📦 Provider: A state management library that helps manage the game's state efficiently 📦.
 - 🔊 audioplayers: A library for playing audio files, used for sound effects and background music 🔊.
 - 🎥 Lottie: A library for adding animations to the game, enhancing the overall user experience 🎥.
+
+
+![image alt](https://github.com/Ali-Hamza-007/Tic_Tac-_Toe_using_Flutter-/blob/ef931aedb1b3f7cb9037ff1a0ca3d0ee8a2b92f9/Image.png)
